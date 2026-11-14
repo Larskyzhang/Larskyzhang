@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Larskyzhang (Zekai Zhang)
 
+![访客计数](https://komarev.com/ghpvc/?username=larskyzhang&color=tokyonight&style=flat-square&label=PROFILE+VIEWS)
+
 > 🐍 Python & 💻 C++ | Student & Developer
 
 🌐 **Website:** [larskyzhang.dpdns.org](https://larskyzhang.dpdns.org/)
