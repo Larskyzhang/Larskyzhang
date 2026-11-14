@@ -15,9 +15,11 @@
 
 ## 📊 GitHub Stats
 
-![Larskyzhang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larskyzhang&show_icons=true&theme=default&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larskyzhang&layout=compact&theme=default)
+<div align="left">
+  <img src="https://github-readme-stats-drab.vercel.app/api?username=larskyzhang&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <br />
+  <img src="https://github-readme-stats-drab.vercel.app/api/top-langs/?username=larskyzhang&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ---
 
@@ -29,3 +31,4 @@
 ---
 
 ⭐ *Feel free to check out my repos and leave a star if you like something!*
+
