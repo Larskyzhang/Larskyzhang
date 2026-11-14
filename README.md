@@ -13,13 +13,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<div align="left">
-  <img src="https://github-readme-stats-drab.vercel.app/api?username=larskyzhang&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <br />
-  <img src="https://github-readme-stats-drab.vercel.app/api/top-langs/?username=larskyzhang&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+![Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larskyzhang&theme=tokyonight)
+
 
 ---
 
