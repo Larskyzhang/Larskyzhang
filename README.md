@@ -26,10 +26,13 @@
 - 💻 GitHub: [@larskyzhang](https://github.com/larskyzhang)
 
 ---
-
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/Larskyzhang" alt="Larskyzhang's green contribution wall" width="700" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2ea043/Larskyzhang">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/216e39/Larskyzhang">
+    <img alt="Larskyzhang GitHub contributions" src="https://ghchart.rshah.org/2ea043/Larskyzhang" width="720">
+  </picture>
 </p>
+
 
 ⭐ *Feel free to check out my repos and leave a star if you like something!*
