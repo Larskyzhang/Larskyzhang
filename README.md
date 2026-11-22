@@ -34,17 +34,4 @@
   <img src="https://ghchart.rshah.org/2ea043/Larskyzhang" alt="Larskyzhang's green contribution wall" width="700" />
 </p>
 
-<p align="center">
-  🌐 <a href="https://larskyzhang.dpdns.org">larskyzhang.dpdns.org</a>
-</p>
 
-
-
-
-<p align="center">
-  <img src="https://github.com/users/Larskyzhang/contributions" alt="Larskyzhang's GitHub contributions" width="700" />
-</p>
-
-<p align="center">
-  🌐 <a href="https://larskyzhang.dpdns.org">larskyzhang.dpdns.org</a>
-</p>
