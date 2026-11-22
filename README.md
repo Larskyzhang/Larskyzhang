@@ -16,7 +16,6 @@
 ## 📊 Activity
 
 ![Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larskyzhang&theme=tokyonight)
-![GitHub 贡献图](https://github-readme-activity-graph.vercel.app/graph?username=Larskyzhang&hide_border=true)
 
 
 ---
