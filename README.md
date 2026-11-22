@@ -27,11 +27,9 @@
 
 ---
 
-⭐ *Feel free to check out my repos and leave a star if you like something!*
-
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2ea043/Larskyzhang" alt="Larskyzhang's green contribution wall" width="700" />
 </p>
 
-
+⭐ *Feel free to check out my repos and leave a star if you like something!*
