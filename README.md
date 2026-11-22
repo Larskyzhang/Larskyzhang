@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Larskyzhang/Zekai Zhang
+# Hi there 👋 I'm Larskyzhang / Zekai Zhang
 
 > 🐍 Python & 💻 C++ | Student & Developer
 
